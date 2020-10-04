@@ -1,5 +1,3 @@
-# php_audio_tag_editor
-
 PHP Audio Tag Editor using ID3 (<info@getid3.org>)
 ===
 **<https://logad.net/audiotag>**
